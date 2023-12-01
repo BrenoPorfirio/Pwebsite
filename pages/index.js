@@ -9,7 +9,7 @@ export default function Home() {
           </a>
         </li>
         <li>
-          <a href="" target="_blank">
+          <a href="/recipe13/newPage" target="_blank">
             Receita 13
           </a>
         </li>
