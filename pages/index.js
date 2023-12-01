@@ -14,7 +14,7 @@ export default function Home() {
           </a>
         </li>
         <li>
-          <a href="" target="_blank">
+          <a href="/recipe14/movies" target="_blank">
             Receita 14
           </a>
         </li>
