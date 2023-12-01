@@ -1,4 +1,4 @@
-import { Otherfunc } from "./other"
+import Otherfunc from "./other"
 
 export default function Home() {
     return (
