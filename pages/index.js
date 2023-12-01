@@ -23,7 +23,7 @@ export default function Home() {
             Receita 15--Movies2
           </a>
           <br />
-          <a href="" target="_blank">
+          <a href="/recipe15/ipExtreme" target="_blank">
             Receita 15--IpExtreme
           </a>
         </li>
