@@ -1,0 +1,48 @@
+.movies-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.movie-item {
+    margin: 10px;
+    text-align: center;
+    background-color: gray;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.movie-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.movie-item h2 {
+    margin-top: 5px;
+}
+
+.toggle-button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.toggle-button:hover {
+    background-color: #2980b9;
+}
+
+.movie-link {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.movie-link:hover {
+    color: #3498db;
+}

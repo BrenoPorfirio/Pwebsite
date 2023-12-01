@@ -28,8 +28,8 @@ export default function Home() {
           </a>
         </li>
         <li>
-          <a href="https://github.com/BrenoPorfirio/PWEB/tree/main/React%2BNextJS/pages/recipe16" target="_blank">
-            Receita 16 (o código não funciona na VERCEL)
+          <a href="/recipe16/movies3" target="_blank">
+            Receita 16
           </a>
         </li>
       </ul>
