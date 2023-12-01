@@ -19,7 +19,7 @@ export default function Home() {
           </a>
         </li>
         <li>
-          <a href="" target="_blank">
+          <a href="/recipe15/movies2" target="_blank">
             Receita 15--Movies2
           </a>
           <br />
