@@ -1,0 +1,35 @@
+.movie-detail-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.movie-detail-image {
+    margin-bottom: 20px;
+}
+
+.movie-detail-image img {
+    max-width: 100%;
+}
+
+.movie-detail-title {
+    text-align: center;
+}
+
+.movie-detail-descriptions {
+    text-align: left;
+}
+
+.button-back {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.button-back:hover {
+    background-color: #2980b9;
+}
