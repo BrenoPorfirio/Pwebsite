@@ -31,6 +31,10 @@ export default function Home() {
           <a href="/recipe16/movies3" target="_blank">
             Receita 16
           </a>
+          <br />
+          <a href="/recipe16/searchmovies/[key].js" target="_blank">
+            Receita 16--Busca por Key
+          </a>
         </li>
       </ul>
 
