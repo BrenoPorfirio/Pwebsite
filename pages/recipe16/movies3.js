@@ -44,7 +44,7 @@ export default function Movies3() {
     const { data, error } = useSWR(url, theFetcher);
     const onClickHandler = (e) => {
         e.preventDefault();
-        if (url === '') setUrl('https://www.omdbapi.com/?apikey=ca98445&s=bagdad');
+        if (url === '') setUrl('https://www.omdbapi.com/?apikey=ca98445&s=redemption');
         else setUrl('');
     };
 
