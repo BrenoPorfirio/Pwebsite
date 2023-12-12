@@ -36,6 +36,11 @@ export default function Home() {
             Receita 16--Busca por Key
           </a>
         </li>
+        <li>
+          <a href="/recipe17/movies33" target="_blank">
+            Receita 17
+          </a>
+        </li>
       </ul>
 
       <style jsx global>{`
